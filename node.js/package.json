@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@google-cloud/functions-framework": "^3.0.0",
+    "langchain": "latest",
+    "google-auth-library": "8.9.0"
+  }
+}
